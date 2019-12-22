@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5cbdc1f4f09b10c5319e5931277819f7",
+    "revision": "77c7760d50d82c58bcc7d62ac17659a7",
     "url": "/misterBitcoin-react/index.html"
   },
   {
-    "revision": "bf50647768813b285108",
-    "url": "/misterBitcoin-react/static/css/main.a96a8cf5.chunk.css"
+    "revision": "06f9d67464cc5edd0e64",
+    "url": "/misterBitcoin-react/static/css/main.7197a133.chunk.css"
   },
   {
-    "revision": "2c5efc4c5348eab7c280",
-    "url": "/misterBitcoin-react/static/js/2.d0c91f43.chunk.js"
+    "revision": "d71a0d9903cd9fd1ba43",
+    "url": "/misterBitcoin-react/static/js/2.183e893f.chunk.js"
   },
   {
     "revision": "eb89643b19c316b7732aae51613d6329",
-    "url": "/misterBitcoin-react/static/js/2.d0c91f43.chunk.js.LICENSE"
+    "url": "/misterBitcoin-react/static/js/2.183e893f.chunk.js.LICENSE"
   },
   {
-    "revision": "bf50647768813b285108",
-    "url": "/misterBitcoin-react/static/js/main.27b44b27.chunk.js"
+    "revision": "06f9d67464cc5edd0e64",
+    "url": "/misterBitcoin-react/static/js/main.bef07532.chunk.js"
   },
   {
     "revision": "60b25310d393423376d0",
@@ -34,5 +34,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9471c42e5c4d070cb3e2a7e06f0dbce3",
     "url": "/misterBitcoin-react/static/media/hero1.9471c42e.jpg"
+  },
+  {
+    "revision": "977b3fef4f121d60a9b21c661be0c72b",
+    "url": "/misterBitcoin-react/static/media/moves.977b3fef.png"
   }
 ]);

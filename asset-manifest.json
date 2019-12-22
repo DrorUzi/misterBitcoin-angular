@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/misterBitcoin-react/static/css/main.a96a8cf5.chunk.css",
-    "main.js": "/misterBitcoin-react/static/js/main.27b44b27.chunk.js",
-    "main.js.map": "/misterBitcoin-react/static/js/main.27b44b27.chunk.js.map",
+    "main.css": "/misterBitcoin-react/static/css/main.7197a133.chunk.css",
+    "main.js": "/misterBitcoin-react/static/js/main.bef07532.chunk.js",
+    "main.js.map": "/misterBitcoin-react/static/js/main.bef07532.chunk.js.map",
     "runtime-main.js": "/misterBitcoin-react/static/js/runtime-main.64fbdfb9.js",
     "runtime-main.js.map": "/misterBitcoin-react/static/js/runtime-main.64fbdfb9.js.map",
-    "static/js/2.d0c91f43.chunk.js": "/misterBitcoin-react/static/js/2.d0c91f43.chunk.js",
-    "static/js/2.d0c91f43.chunk.js.map": "/misterBitcoin-react/static/js/2.d0c91f43.chunk.js.map",
+    "static/js/2.183e893f.chunk.js": "/misterBitcoin-react/static/js/2.183e893f.chunk.js",
+    "static/js/2.183e893f.chunk.js.map": "/misterBitcoin-react/static/js/2.183e893f.chunk.js.map",
     "index.html": "/misterBitcoin-react/index.html",
-    "precache-manifest.cacdcb5cb58250203da25366955f3f3c.js": "/misterBitcoin-react/precache-manifest.cacdcb5cb58250203da25366955f3f3c.js",
+    "precache-manifest.bc86f8e00e6a96fd8aca0fbb86eefec6.js": "/misterBitcoin-react/precache-manifest.bc86f8e00e6a96fd8aca0fbb86eefec6.js",
     "service-worker.js": "/misterBitcoin-react/service-worker.js",
-    "static/css/main.a96a8cf5.chunk.css.map": "/misterBitcoin-react/static/css/main.a96a8cf5.chunk.css.map",
-    "static/js/2.d0c91f43.chunk.js.LICENSE": "/misterBitcoin-react/static/js/2.d0c91f43.chunk.js.LICENSE",
+    "static/css/main.7197a133.chunk.css.map": "/misterBitcoin-react/static/css/main.7197a133.chunk.css.map",
+    "static/js/2.183e893f.chunk.js.LICENSE": "/misterBitcoin-react/static/js/2.183e893f.chunk.js.LICENSE",
     "static/media/bitcoin.png": "/misterBitcoin-react/static/media/bitcoin.d331535d.png",
     "static/media/coins.png": "/misterBitcoin-react/static/media/coins.bd8997ff.png",
-    "static/media/global.scss": "/misterBitcoin-react/static/media/hero1.9471c42e.jpg"
+    "static/media/global.scss": "/misterBitcoin-react/static/media/hero1.9471c42e.jpg",
+    "static/media/moves.png": "/misterBitcoin-react/static/media/moves.977b3fef.png"
   },
   "entrypoints": [
     "static/js/runtime-main.64fbdfb9.js",
-    "static/js/2.d0c91f43.chunk.js",
-    "static/css/main.a96a8cf5.chunk.css",
-    "static/js/main.27b44b27.chunk.js"
+    "static/js/2.183e893f.chunk.js",
+    "static/css/main.7197a133.chunk.css",
+    "static/js/main.bef07532.chunk.js"
   ]
 }
